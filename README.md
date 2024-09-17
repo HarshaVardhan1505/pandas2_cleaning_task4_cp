@@ -54,11 +54,11 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-test-dataset-cleaning.git
+   https://github.com/HarshaVardhan1505/pandas2_cleaning_task4_cp.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd food-test-dataset-cleaning
+   cd food-test-dataset-cleanin
    ```
 3. Install the required dependencies:
    ```bash
@@ -75,10 +75,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-ge.svg?style=plastic&targetFile=requirements.txt%29.
-(5) undefined. http://snyk.io/test/github/mramshaw/Data-Cleaning?style=plastic&targetFile=requirements.txt%29.
-(6) undefined. http://changelog.com/practicalai/7.
-(7) undefined. http://visit.figure-eight.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport_2016.pdf%29.
-(8) undefined. http://realpython.com/python-data-cleaning-numpy-pandas/%29.
-(9) undefined. http://en.wikipedia.org/wiki/Outlier%29.
+This project is licensed under the MIT License. 
